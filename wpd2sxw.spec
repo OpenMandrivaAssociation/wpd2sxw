@@ -12,7 +12,6 @@ Release:	%{release}
 Source:		%{sourcename}-%{version}.tar.bz2
 Group:		Office
 URL:		http://libwpd.sf.net/
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 License:	LGPL
 BuildRequires:	libwpd-devel >= 0.7.0
 Provides:	%{name} = %{version}-%{release}
