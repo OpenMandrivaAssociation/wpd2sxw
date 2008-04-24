@@ -1,7 +1,7 @@
 %define rel        1
 %define name	wpd2sxw
 %define sourcename writerperfect
-%define version	0.7.1
+%define version	0.7.3
 %define release	%mkrel %{rel}
 
 
@@ -9,7 +9,7 @@ Name:		%{name}
 Summary:	Convert WordPerfect(tm) documents into OpenOffice.org Writer format
 Version:	%{version}
 Release:	%{release}
-Source:		%{sourcename}-%{version}.tar.bz2
+Source:		%{sourcename}-%{version}.tar.gz
 Group:		Office
 URL:		http://libwpd.sf.net/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
