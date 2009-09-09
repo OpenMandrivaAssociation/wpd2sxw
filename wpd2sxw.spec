@@ -1,4 +1,4 @@
-%define rel        1
+%define rel        2
 %define name	wpd2sxw
 %define sourcename writerperfect
 %define version	0.7.3
