@@ -1,0 +1,10 @@
+--- filter/Style.hxx.gcc	2011-05-02 15:29:09.000000000 +0200
++++ filter/Style.hxx	2011-05-02 15:29:26.000000000 +0200
+@@ -29,6 +29,7 @@
+ #define _STYLE_H
+ #include <libwpd/libwpd.h>
+ #include "DocumentElement.hxx"
++#include <cstddef>
+ 
+ class TopLevelElementStyle
+ {
