@@ -1,7 +1,7 @@
 Name:		wpd2sxw
 Summary:	Convert WordPerfect(tm) documents into OpenOffice.org Writer format
 Version:	0.8.0
-Release:	1
+Release:	2
 Source:		http://downloads.sourceforge.net/libwpd/writerperfect-%{version}.tar.bz2
 Patch0:		writerperfect-0.8.0-gcc4.6.patch
 Group:		Office
