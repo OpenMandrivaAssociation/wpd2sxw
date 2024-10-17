@@ -5,7 +5,7 @@ Release:	2
 Source:		http://downloads.sourceforge.net/libwpd/writerperfect-%{version}.tar.bz2
 Patch0:		writerperfect-0.8.0-gcc4.6.patch
 Group:		Office
-URL:		http://libwpd.sf.net/
+URL:		https://libwpd.sf.net/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 License:	LGPL
 BuildRequires:	libwpd-devel >= 0.9.0
